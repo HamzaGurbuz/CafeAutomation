@@ -1,0 +1,20 @@
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\bin\Debug\Eray_Dogan_NTP.exe
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\bin\Debug\Eray_Dogan_NTP.pdb
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.AssemblyReference.cache
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Form1.resources
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Properties.Resources.resources
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.GenerateResource.cache
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.CoreCompileInputs.cache
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.exe
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.pdb
+C:\Users\nkara\source\repos\Eray_Dogan_NTP\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Form2.resources
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\bin\Debug\Eray_Dogan_NTP.exe
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\bin\Debug\Eray_Dogan_NTP.pdb
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.AssemblyReference.cache
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Form1.resources
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Form2.resources
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.Properties.Resources.resources
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.GenerateResource.cache
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.csproj.CoreCompileInputs.cache
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.exe
+C:\Users\nkara\OneDrive\Masaüstü\Eray_Dogan_NTP - Kopya\Eray_Dogan_NTP\obj\Debug\Eray_Dogan_NTP.pdb
